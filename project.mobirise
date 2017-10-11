@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-11_2136",
+    "name": "Portfolio 2017",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 8,
-    "versionPublish": "4.3.2"
+    "versionPublish": "4.3.2",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x125.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
