@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 8,
+    "uniqCompNum": 14,
     "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x125.png",
     "noImageResize": "",
